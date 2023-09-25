@@ -1,0 +1,8 @@
+Run below command to compile c program for executable file
+----------------------------------------------------------
+gcc #Lab_5.c -o #Lab_5
+
+
+Run below command to run the executable file
+--------------------------------------------
+./#Lab_5
